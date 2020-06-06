@@ -37,3 +37,7 @@ Content\Interaction\Maps\ZombieCity\Meshes\DecoExterior_01\Textures\* filter=lfs
 Content\Interaction\Maps\ZombieCity\Meshes\DecoExterior_02\Textures\* filter=lfs diff=lfs merge=lfs -text
 Content\Interaction\Weapons\Shotgun\Textures\* filter=lfs diff=lfs merge=lfs -text
 Content\Interaction\Maps\* filter=lfs diff=lfs merge=lfs -text
+Content/PolygonCity/* filter=lfs diff=lfs merge=lfs -text
+Content/PolygonTown/* filter=lfs diff=lfs merge=lfs -text
+Content/Meshes/* filter=lfs diff=lfs merge=lfs -text
+Content/PolygonCity/Meshes/Vehicles/* filter=lfs diff=lfs merge=lfs -text
